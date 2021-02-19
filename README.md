@@ -9,6 +9,9 @@ To install requirements:
 ```setup
 pip install -r requirements.txt
 ```
+## Maze Data
+
+The maze data can be downloaded from [here](https://drive.google.com/drive/folders/1ad_ZESAddlfx-b3CnK1ohoKz6Sp8U-5g?usp=sharing). Maze generation code is also available in the [maze_data directory](./maze_data).
 
 ## Training
 
