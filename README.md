@@ -1,6 +1,6 @@
 # Thinking Deeply with Recurrence: Generalizing from Easy to Hard Sequential Reasoning Problems
 
-This repository is the official implementation of Thinking Deeply with Recurrence: Generalizing from Easy to Hard Sequential Reasoning Problems. 
+This repository is the official implementation of [Thinking Deeply with Recurrence: Generalizing from Easy to Hard Sequential Reasoning Problems](https://arxiv.org/abs/2102.11011). 
 
 ## Requirements
 
